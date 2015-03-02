@@ -115,7 +115,7 @@ VALUES
 	(29,'debug','0'),
 	(30,'rss','1'),
 	(2001, 'httpTimeout', '15'),
-    (2002, 'httpConnectTimeout', '15'),
+	(2002, 'httpConnectTimeout', '15'),
 	(3000,'smtp','0'),	
 	(3001,'smtpHost',''),	
 	(3002,'smtpPort','25'),	
